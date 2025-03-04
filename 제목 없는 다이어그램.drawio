@@ -64,6 +64,9 @@
         <mxCell id="Gr74_H7GAaG4aYqIUhJj-39" value="주제는 옵저버를 포함하여&amp;nbsp;&lt;div&gt;여러 옵저버가 존재 할 수 있다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="258" y="-4" width="237" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Gr74_H7GAaG4aYqIUhJj-40" value="https://jhdev123.tistory.com/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="486" y="393" width="216" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
